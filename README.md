@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**jacksonchui/jacksonchui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Jackson!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm currently working for [Mojo Vision](https://www.mojo.vision) as a Senior Software Engineer, building on embedded apps for its smart contact lens platform.
+
+I did my undergrad at [Cal](https://berkeley.edu) and got a Bachelors in CS. **Go Bears 🐻**!
+
+
+- 💬 [in/jacksonchui](https://linkedin.com/in/jacksonchui)
+- 📫 "${my_github_username}.qwerty@gmail.com"
+- 😄 he/him/his
+- 🌱 learning ... [ansible](https://github.com/ansible/ansible) (for homelab scripting), [flutter](https://github.com/flutter/flutter) (for fun & cross-platform use cases)
+- ⌘ interests ... ⚒️ keebs, computers, furniture, 📷 portraits, city life, and 🧘🏽.
+- ⚡ ~ _nothing is better than getting a design just right and handling use cases elegantly_ ~
