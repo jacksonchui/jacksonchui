@@ -9,7 +9,7 @@ I did my undergrad at [Cal](https://berkeley.edu) and got a Bachelors in CS. **G
 
 
 - 💬 [in/jacksonchui](https://linkedin.com/in/jacksonchui)
-- 📫 "${my_github_username}.qwerty@gmail.com"
+- 📫 "code@{my_github_username}.com"
 - 😄 he/him/his
 - 🌱 learning ... [ansible](https://github.com/ansible/ansible) (for homelab scripting), [flutter](https://github.com/flutter/flutter) (for fun & cross-platform use cases)
 - ⌘ interests ... ⚒️ keebs, computers, furniture, 📷 portraits, city life, and 🧘🏽.
